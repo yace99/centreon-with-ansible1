@@ -1,0 +1,1 @@
+# centreon-with-ansible1
